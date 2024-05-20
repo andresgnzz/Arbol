@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\bin\Debug\Arbol.exe
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\bin\Debug\Arbol.pdb
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.exe
+C:\Users\andre\Desktop\UNIVERSIDAD\Semestre 6\Interfaces\Visual Studio\Arbol\Arbol\obj\Debug\Arbol.pdb
